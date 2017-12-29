@@ -4,7 +4,7 @@ import math
 import csv
 
 import plotly
-plotly.tools.set_credentials_file(username='eboda1', api_key='SsuyI9TXxZHxSo01u3Mz')
+plotly.tools.set_credentials_file(username='YOUR-USERNAME', api_key='YOUR-API-KEY')
 import plotly.plotly as py
 import plotly.graph_objs as go
 
